@@ -5,7 +5,7 @@ Primeiro desafio de projeto sobre Git/Github
 
 
 
- ## são essas: 
+ ## São essas: 
 
 - Link de download do  Git
 - Link de como personalizar o Github
