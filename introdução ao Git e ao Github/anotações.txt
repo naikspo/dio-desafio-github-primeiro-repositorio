@@ -1,0 +1,11 @@
+Link para download do git https://git-scm.com/
+
+Link para personalizar o Github https://www.youtube.com/watch?v=cRoBt6AZgjc
+
+*GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. 
+*Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+* Comando cd para entrar na pasta
+* Sha1= Criptografia
+* Usar o Typora para editar arquivos Markdown(md)
+* cd= Para entrar na pasta
+
